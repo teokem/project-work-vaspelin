@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vaspelin/thiocyanate/master?filepath=project_updated.ipynb)
+
 # A forcefield parametrization of NaSCN and KSCN 
 
 Ionic parameters appearing in the Lennard-Jones potential are optimized to reproduce thermodynamic properties obtained from experiments.
