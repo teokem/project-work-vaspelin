@@ -4,7 +4,7 @@ Ionic parameters appearing in the Lennard-Jones potential are optimized to repro
 
 ## Running the Jupyter notebook
 
-You can run it in the web browser on mybinder (without installing anything) by clicking the link [here](https://mybinder.org/v2/gh/vaspelin/thiocyanate/master?filepath=project_updated.ipynb) (ignore the following in that case).
+You can run it in the web browser on mybinder (without installing anything) by clicking the link [here](https://mybinder.org/v2/gh/vaspelin/thiocyanate/master?filepath=project_updated.ipynb), or, follow the following instructions:
 
 
 1. Install miniconda3 or anaconda3 on your computer.
